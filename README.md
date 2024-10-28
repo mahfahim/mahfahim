@@ -1,12 +1,12 @@
+#################################                                    Hi there 👋
+###                         This is Md Abdul Hai Fahim
 ![Programmer](https://media.licdn.com/dms/image/v2/D5616AQERz76s3VW5Vw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730073486633?e=1735776000&v=beta&t=NoLMpQzeZ2ga9ZiquybQUoCVBiX1yiWvHGphnzgWJq8)
-###                                     Hi there 👋
-###                         I am Md Abdul Hai Fahim
+
 #### Programmer
 ##### Love to learn new skils
-
 Skills: Python/c++/c/DSA/Databage
 
-- 🔭 I’m currently working on this page. 
+- 🔭 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahfahim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdabdulhaifahim/)  
