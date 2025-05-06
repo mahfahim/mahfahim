@@ -17,7 +17,7 @@ Skills: C , C++, DSA
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/mahfahim/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/mahfahim.svg)
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahfahim)  
 
