@@ -1,6 +1,6 @@
 ### Hi, I'm  Md Abdul Hai Fahim 👋
 ###### Programmer
-![Programmer](https://media.licdn.com/dms/image/v2/D5616AQGbLfOAEPYeQw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730075387149?e=1735776000&v=beta&t=lFQ91EpF65y53CaUfl_7Arb0-rVixDvWccpNmefcEEo)
+
 
 "I am a programmer skilled in data structures and algorithms, with expertise in C, C++. I enjoy solving complex problems through efficient coding and logical thinking. My technical background allows me to build robust and scalable solutions, and I am always eager to learn new technologies to enhance my skill set."
 
