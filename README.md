@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Md Abdul Hai Fahim 👋</h1>
+<h1 align="center">Hi there, I'm Md Abdul Hai Fahim </h1>
 <h3 align="center">Junior Software Engineer | Full-Stack Web Developer</h3>
 
 <p align="center">
@@ -7,19 +7,19 @@
 
 ---
 
-### 🧑‍💻 About Me
+###  About Me
 
 I'm a Junior Software Engineer specializing in **full-stack web development**, with experience in **C++, Python, JavaScript, TypeScript, React, Next.js, Express.js, Prisma, and PostgreSQL**. I enjoy building scalable web applications and full-stack projects that reflect strong problem-solving and software engineering skills.
 
-- 🛠️ Hands-on experience with **Linux, Git, Docker, AWS, PostgreSQL**, and **RESTful API** development
-- 📚 Solid foundation in **Data Structures & Algorithms, database design, and system architecture**
-- 🧩 Regularly solving problems on **LeetCode** to sharpen algorithmic thinking
-- 🌱 Continuously exploring modern technologies, cloud platforms, and industry best practices
-- 💬 Always open to discussing software engineering, system design, and clean code
+-  Hands-on experience with **Linux, Git, Docker, AWS, PostgreSQL**, and **RESTful API** development
+-  Solid foundation in **Data Structures & Algorithms, database design, and system architecture**
+-  Regularly solving problems on **LeetCode** to sharpen algorithmic thinking
+-  Continuously exploring modern technologies, cloud platforms, and industry best practices
+-  Always open to discussing software engineering, system design, and clean code
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages**
 
@@ -50,7 +50,7 @@ I'm a Junior Software Engineer specializing in **full-stack web development**, w
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfahim&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub stats" height="170" />
