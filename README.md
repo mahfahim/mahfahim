@@ -1,253 +1,323 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A6+Hi%2C+I'm+Md+Abdul+Hai+Fahim+%E2%9C%A6" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A6+Hi%2C+I'm+Md+Abdul+Hai+Fahim+%E2%9C%A6" />
+    <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=40&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=600&height=70&lines=%E2%9C%A6+Hi%2C+I'm+Md+Abdul+Hai+Fahim+%E2%9C%A6" />
+  </picture>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=&fontSize=0" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=2500&pause=1500&color=A0A0A0&center=true&vCenter=true&width=700&height=40&lines=Junior+Software+Engineer+%7C+Full+Stack+Web+Developer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=2500&pause=1500&color=606060&center=true&vCenter=true&width=700&height=40&lines=Junior+Software+Engineer+%7C+Full+Stack+Web+Developer" />
+    <img alt="Subtitle Typing" src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=2500&pause=1500&color=606060&center=true&vCenter=true&width=700&height=40&lines=Junior+Software+Engineer+%7C+Full+Stack+Web+Developer" />
+  </picture>
+</div>
 
-<br/>
+<div align="center" style="margin-top: 8px; margin-bottom: 24px;">
+  <p style="font-family: 'Segoe UI', Inter, system-ui, sans-serif; font-size: 16px; color: #6b7280; letter-spacing: -0.2px;">
+    Building scalable web applications with modern technologies.
+  </p>
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Fahim;Junior+Software+Engineer;Full+Stack+Web+Developer;I+build+for+the+web." alt="Typing SVG" />
-
-<p align="center">
-  <sub>Building scalable web applications with modern technologies.</sub>
-</p>
-
-<br/>
-
-<p align="center">
-  <a href="https://github.com/mahfahim">
-    <img src="https://img.shields.io/github/followers/mahfahim?label=Followers&style=for-the-badge&color=6366F1&labelColor=0f0f0f" />
+<div align="center" style="margin-bottom: 30px;">
+  <a href="https://github.com/mahfahim" target="_blank">
+    <img src="https://img.shields.io/github/followers/mahfahim?label=Follow&style=social" alt="GitHub followers" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=mahfahim&label=Profile+Views&style=for-the-badge&color=6366F1&labelColor=0f0f0f" />
-  <a href="https://github.com/mahfahim?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/mahfahim?label=Stars&style=for-the-badge&color=6366F1&labelColor=0f0f0f" />
+  <a href="https://github.com/mahfahim" target="_blank">
+    <img src="https://img.shields.io/github/stars/mahfahim?label=Stars&style=social" alt="GitHub stars" />
   </a>
-</p>
+  <img src="https://komarev.com/ghpvc/?username=mahfahim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/mahfahim?tab=achievements">
+    <img src="https://img.shields.io/badge/🏆_Achievements-0e75b6?style=flat" alt="Trophies" />
+  </a>
+</div>
 
-<br/>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdabdulhaifahim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dev.to/mahfahim51"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-  <a href="https://hashnode.com/@mahfahim51"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/28015960/m-a-h-fahim"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-</p>
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
 </div>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-1.gif" />
-
-<br/>
-
-## About Me
-
-I'm a full stack developer focused on building clean, scalable web applications with React, Next.js, and Express. Most of my recent work has gone into a full-stack learning platform built with TypeScript, Prisma, and PostgreSQL — covering everything from schema design to authentication and API architecture.
-
-I care about writing code that's easy to reason about, and I'm currently spending a lot of time on system design, containerization with Docker, and getting more comfortable deploying and scaling backend services on AWS. Outside of web development, I've also built a small OS kernel from scratch and worked on an IoT project combining computer vision with robotics, which has given me a decent appreciation for what happens below the application layer.
-
-```text
-const fahim = {
-  role: "Junior Software Engineer",
-  stack: ["React", "Next.js", "Express", "TypeScript", "PostgreSQL"],
-  currentlyLearning: ["System Design", "AWS", "Docker"],
-  funFact: "Once built a 64-bit OS kernel from scratch, just to see how it works"
-};
-```
-
-<br/>
-
-## Tech Stack
-
-<table align="center" border="0" cellspacing="0" cellpadding="10">
-<tr>
-<td valign="top" width="50%">
-
-**Languages**
-
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_APIs-6366F1?style=flat-square&logo=fastapi&logoColor=white" />
-
-**Database**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/NeonDB-00E599?style=flat-square&logo=postgresql&logoColor=black" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**DevOps & Cloud**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-
-</td>
-<td valign="top" width="50%">
-
-**Tools**
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-</td>
-</tr>
+<table align="center" style="border: none; border-collapse: collapse; width: 90%; max-width: 880px; margin: 0 auto 30px auto;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <div align="left" style="background: rgba(255,255,255,0.02); backdrop-filter: blur(10px); border: 1px solid rgba(128,128,128,0.15); border-radius: 16px; padding: 28px 32px; margin: 0;">
+        <h3 style="font-family: Inter, 'Segoe UI', system-ui, sans-serif; font-weight: 600; font-size: 18px; letter-spacing: -0.3px; margin-top: 0; margin-bottom: 12px; color: inherit;">✦ About Me</h3>
+        <p style="font-family: 'Segoe UI', Inter, system-ui, sans-serif; font-size: 15px; line-height: 1.6; color: inherit; opacity: 0.85; margin: 0;">
+          Full stack developer focused on crafting clean, performant applications using React, Next.js, and TypeScript. I enjoy designing solid REST APIs with Express and Prisma, backed by PostgreSQL. Currently exploring cloud infrastructure with AWS, Docker containerization, and Linux environments. I value clean architecture, practical problem solving, and writing code that lasts.
+        </p>
+      </div>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## GitHub Stats
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mahfahim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfahim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366F1&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mahfahim&theme=tokyonight&hide_border=true&background=0d1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366F1&line=6366F1&point=ffffff" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
 </div>
 
 <br/>
 
-<div align="center">
+## ⚡ Tech Stack
 
-**Contribution Snake**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahfahim/mahfahim/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahfahim/mahfahim/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mahfahim/mahfahim/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>Generated via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mahfahim&theme=darkhub&no-frame=true&row=1&column=6&margin-w=10" />
-
-</div>
-
-<br/>
-
-## Featured Skills
-
-<table align="center" border="0" cellspacing="0" cellpadding="15">
-<tr>
-<td width="33%" align="center">
-
-### 🎨 Frontend
-Building responsive, accessible interfaces with React and Next.js, focused on clean component architecture.
-
-</td>
-<td width="33%" align="center">
-
-### ⚙️ Backend
-Designing REST APIs with Express, handling authentication, and structuring services for maintainability.
-
-</td>
-<td width="33%" align="center">
-
-### 🗄️ Database Design
-Modeling relational schemas in PostgreSQL with Prisma — from normalization to query optimization.
-
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-
-### 🧩 System Design
-Learning to design systems that scale — load balancing, caching, and service boundaries.
-
-</td>
-<td width="33%" align="center">
-
-### 🐳 Docker
-Containerizing applications for consistent environments across development and deployment.
-
-</td>
-<td width="33%" align="center">
-
-### 🐧 Linux & Git
-Comfortable in the terminal — from shell scripting to managing version control workflows.
-
-</td>
-</tr>
+<table align="center" style="width: 90%; max-width: 880px; margin: 0 auto;">
+  <tr>
+    <td style="border: none; padding: 12px;" valign="top">
+      <table align="center" style="width: 100%; border: none; border-collapse: collapse;">
+        <tr align="center">
+          <td style="border: none; padding: 12px;" width="33%">
+            <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 20px 12px;">
+              <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 14px; font-size: 15px; letter-spacing: -0.2px;">Languages</p>
+              <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+              <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+              <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+              <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+            </div>
+          </td>
+          <td style="border: none; padding: 12px;" width="33%">
+            <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 20px 12px;">
+              <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 14px; font-size: 15px; letter-spacing: -0.2px;">Frontend</p>
+              <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+              <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+              <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+              <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+              <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+            </div>
+          </td>
+          <td style="border: none; padding: 12px;" width="33%">
+            <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 20px 12px;">
+              <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 14px; font-size: 15px; letter-spacing: -0.2px;">Backend</p>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+              <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+              <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+              <img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
+            </div>
+          </td>
+        </tr>
+        <tr align="center">
+          <td style="border: none; padding: 12px;" width="33%">
+            <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 20px 12px;">
+              <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 14px; font-size: 15px; letter-spacing: -0.2px;">Database</p>
+              <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+              <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+            </div>
+          </td>
+          <td style="border: none; padding: 12px;" width="33%">
+            <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 20px 12px;">
+              <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 14px; font-size: 15px; letter-spacing: -0.2px;">DevOps & Cloud</p>
+              <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+              <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+              <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+              <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+            </div>
+          </td>
+          <td style="border: none; padding: 12px;" width="33%">
+            <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 20px 12px;">
+              <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin-top: 0; margin-bottom: 14px; font-size: 15px; letter-spacing: -0.2px;">Tools</p>
+              <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+              <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+              <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+              <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 </table>
 
 <br/>
 
-## Currently Learning
-
 <div align="center">
-
-<img src="https://img.shields.io/badge/Advanced_Next.js-6366F1?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/System_Design-6366F1?style=for-the-badge&logo=systemd&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-6366F1?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-6366F1?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Design_Patterns-6366F1?style=for-the-badge&logo=codereview&logoColor=white" />
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
 </div>
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/lines-1.gif" />
+## 📊 GitHub Statistics
 
-<br/>
+<div align="center" style="margin: 20px auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=mahfahim&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&ring_color=58A6FF&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=mahfahim&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&count_private=true&ring_color=0969DA&border_radius=12" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahfahim&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&count_private=true&ring_color=0969DA&border_radius=12" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfahim&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfahim&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&langs_count=8&border_radius=12" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfahim&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&langs_count=8&border_radius=12" alt="Top Languages" />
+  </picture>
+</div>
 
-## Let's Connect
+<div align="center" style="margin: 20px auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahfahim&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&border_radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=mahfahim&theme=default&hide_border=true&background=FFFFFF&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&border_radius=12" />
+    <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfahim&theme=default&hide_border=true&background=FFFFFF&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&border_radius=12" alt="GitHub Streak" />
+  </picture>
+</div>
 
-<div align="center">
+<div align="center" style="margin: 20px auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true&area=true&area_color=58A6FF&custom_title=Contribution%20Graph&radius=12" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=github-light&bg_color=FFFFFF&color=0969DA&line=0969DA&point=333333&hide_border=true&area=true&area_color=0969DA&custom_title=Contribution%20Graph&radius=12" />
+    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=github-light&bg_color=FFFFFF&color=0969DA&line=0969DA&point=333333&hide_border=true&area=true&area_color=0969DA&custom_title=Contribution%20Graph&radius=12" alt="Activity Graph" />
+  </picture>
+</div>
 
-<a href="https://github.com/mahfahim"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/mdabdulhaifahim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dev.to/mahfahim51"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
-<a href="https://hashnode.com/@mahfahim51"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://stackoverflow.com/users/28015960/m-a-h-fahim"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-<a href="https://codepen.io/mahfahim51"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-<a href="https://codesandbox.io/u/mahfahim51"><img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+<div align="center" style="margin: 20px auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahfahim/mahfahim/snake/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahfahim/mahfahim/snake/github-contribution-grid-snake.svg" />
+    <img width="85%" src="https://raw.githubusercontent.com/mahfahim/mahfahim/snake/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  </picture>
+</div>
 
+<div align="center" style="margin: 20px auto;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mahfahim&theme=darkhub&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mahfahim&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+    <img width="85%" src="https://github-profile-trophy.vercel.app/?username=mahfahim&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-
-<sub>Thanks for visiting my profile — let's build something amazing together.</sub>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=120&section=footer" />
+<br/>
+
+## ✦ Featured Skills
+
+<table align="center" style="width: 90%; max-width: 880px; margin: 0 auto;">
+  <tr>
+    <td style="border: none; padding: 10px;">
+      <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;">
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">⚛️ Frontend Development</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">React, Next.js, TypeScript</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🖥️ Backend Development</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Node.js, Express, Prisma</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🗄️ Database Design</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">PostgreSQL, MySQL, MongoDB</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🔗 REST API Development</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Clean, scalable, and documented</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🧩 Problem Solving</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Algorithms, Data Structures</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🏗️ System Design</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Scalable architectures</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🐳 Docker</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Containerization basics</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">🐧 Linux</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Command line, server setup</p>
+        </div>
+        <div style="background: rgba(255,255,255,0.03); backdrop-filter: blur(8px); border: 1px solid rgba(128,128,128,0.12); border-radius: 14px; padding: 18px 12px; text-align: center;">
+          <p style="font-weight: 600; font-family: Inter, 'Segoe UI', sans-serif; margin: 0; font-size: 14px; letter-spacing: -0.2px;">⚡ Git</p>
+          <p style="font-family: 'Segoe UI', system-ui, sans-serif; font-size: 13px; opacity: 0.8; margin: 6px 0 0 0;">Version control, collaboration</p>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
+</div>
+
+<br/>
+
+## 📖 Currently Learning
+
+<table align="center" style="width: 90%; max-width: 880px; margin: 0 auto;">
+  <tr>
+    <td style="border: none; padding: 0;">
+      <div align="left" style="background: rgba(255,255,255,0.02); backdrop-filter: blur(10px); border: 1px solid rgba(128,128,128,0.15); border-radius: 16px; padding: 28px 32px; margin: 0;">
+        <ul style="list-style: none; padding: 0; margin: 0; font-family: 'Segoe UI', Inter, system-ui, sans-serif; font-size: 15px; line-height: 2.2;">
+          <li style="display: flex; align-items: center;">✦ &nbsp; Advanced Next.js patterns</li>
+          <li style="display: flex; align-items: center;">✦ &nbsp; System Design fundamentals</li>
+          <li style="display: flex; align-items: center;">✦ &nbsp; AWS cloud services</li>
+          <li style="display: flex; align-items: center;">✦ &nbsp; Docker and container orchestration</li>
+          <li style="display: flex; align-items: center;">✦ &nbsp; Scalable backend architecture</li>
+          <li style="display: flex; align-items: center;">✦ &nbsp; Design Patterns in TypeScript</li>
+        </ul>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
+</div>
+
+<br/>
+
+## 🌐 Connect
+
+<div align="center" style="margin: 28px 0;">
+  <a href="https://github.com/mahfahim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin: 0 6px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/mdabdulhaifahim/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 0 6px;" />
+  </a>
+  <a href="https://dev.to/mahfahim51" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" style="margin: 0 6px;" />
+  </a>
+  <a href="https://hashnode.com/@mahfahim51" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" style="margin: 0 6px;" />
+  </a>
+  <a href="https://stackoverflow.com/users/28015960/m-a-h-fahim" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" style="margin: 0 6px;" />
+  </a>
+  <a href="https://codepen.io/mahfahim51" target="_blank">
+    <img src="https://img.shields.io/badge/CodePen-%23000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" style="margin: 0 6px;" />
+  </a>
+  <a href="https://codesandbox.io/u/mahfahim51" target="_blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-%23000000.svg?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox" style="margin: 0 6px;" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=4&color=gradient&section=header&reversal=false&animation=fadeIn" />
+</div>
+
+<br/>
+
+<div align="center" style="margin: 40px 0 30px 0;">
+  <p style="font-family: 'Segoe UI', Inter, system-ui, sans-serif; font-size: 15px; letter-spacing: -0.2px; opacity: 0.8;">
+    Thanks for visiting my profile.
+  </p>
+  <p style="font-family: 'Segoe UI', Inter, system-ui, sans-serif; font-size: 16px; font-weight: 500; letter-spacing: -0.2px; margin-top: 4px;">
+    Let's build something amazing together.
+  </p>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&section=footer&reversal=false&animation=fadeIn" />
+</div>
