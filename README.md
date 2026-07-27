@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Md Abdul Hai Fahim </h1>
-<h3 align="center">Junior Software Engineer | Full-Stack Web Developer</h3>
+<h3 align="center">Junior Software Engineer | Full-Stack Software Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfahim&style=for-the-badge&color=blueviolet" alt="profile views" />
