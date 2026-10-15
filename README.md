@@ -69,7 +69,7 @@ I'm a Junior Software Engineer specializing in **full-stack web development**, w
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Fahim's Activity Graph" width="100%" />
+  <img src="https://metrics.lecoq.io/mahfahim?template=classic&config.timezone=Asia%2FDhaka" alt="Fahim's Metrics" width="100%" />
 </div>
 
 <br />
