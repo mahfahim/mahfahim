@@ -6,9 +6,9 @@
 <h1 align="center">Hi there, I'm Md Abdul Hai Fahim 👋</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfahim&style=for-the-badge&color=blueviolet" alt="profile views" />
-</p>
+</div>
 
 ---
 
