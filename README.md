@@ -7,9 +7,6 @@
 
 <h3 align="center">Full-Stack Developer</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahfahim&style=for-the-badge&color=blueviolet" alt="Profile Views" />
-</div>
 
 ---
 
