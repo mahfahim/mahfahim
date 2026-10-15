@@ -141,10 +141,6 @@ I'm passionate about writing clean, maintainable code, exploring new technologie
 ---
 
 
----
-
----
-
 ### 🤝 Connect With Me
 
 <div align="center">
