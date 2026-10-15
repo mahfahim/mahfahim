@@ -1,11 +1,11 @@
 <!-- Banner Image -->
 <div align="center">
-  <img width="100%" alt="Md Abdul Hai Fahim - Full-Stack Software Developer Banner" src="https://github.com/user-attachments/assets/05354a54-a7d0-4341-a457-1aacd07a6189" />
+  <img width="100%" alt="Md Abdul Hai Fahim - Full-Stack Developer Banner" src="https://github.com/user-attachments/assets/05354a54-a7d0-4341-a457-1aacd07a6189" />
 </div>
 
 <h1 align="center">Hi there, I'm Md Abdul Hai Fahim 👋</h1>
 
-<h3 align="center">Full-Stack Software Developer | Problem Solver | ICPC Asia Dhaka Regionalist 2025</h3>
+<h3 align="center">Full-Stack Developer 2025</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfahim&style=for-the-badge&color=blueviolet" alt="Profile Views" />
