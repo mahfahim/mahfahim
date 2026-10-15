@@ -61,18 +61,22 @@ I'm a Junior Software Engineer specializing in **full-stack web development**, w
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahfahim&show_icons=true&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=tokyonight&bg_color=00000000&hide_border=true" alt="Fahim's Activity Graph" width="100%" />
 </div>
 
-<p align="center">
+<br />
+
+<div align="center">
   <img src="https://streak-stats.demolab.com/?user=mahfahim&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
-</p>
+</div>
 
 ---
 
