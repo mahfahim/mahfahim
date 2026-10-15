@@ -143,7 +143,7 @@ I'm passionate about writing clean, maintainable code, exploring new technologie
 ### 📈 GitHub Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mahfahim&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Activity Graph" />
+  <img width="100%" src="https://vercel.app" alt="GitHub Contribution Activity Graph" />
 </div>
 
 ---
