@@ -69,12 +69,6 @@ I'm a Junior Software Engineer specializing in **full-stack web development**, w
 <br />
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/mahfahim?template=classic&config.timezone=Asia%2FDhaka" alt="Fahim's Metrics" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=mahfahim&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 </div>
 
