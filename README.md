@@ -118,7 +118,7 @@ I'm a **Full-Stack Developer** focused on building scalable, reliable, and high-
 
 ### 🎯 Career Goals
 
-I'm seeking opportunities as a **Full-Stack Software Developer** where I can contribute to impactful projects, build scalable web applications, and solve real-world engineering challenges.
+I'm seeking opportunities as a **Full-Stack Developer** where I can contribute to impactful projects, build scalable web applications, and solve real-world engineering challenges.
 
 I'm passionate about writing clean, maintainable code, exploring new technologies, collaborating with developers, and continuously growing as a software engineer.
 
