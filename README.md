@@ -113,7 +113,6 @@ I'm a **Full-Stack Developer** focused on building scalable, reliable, and high-
 - 🥇 **ICPC Asia Dhaka Regionalist 2025**
 - 🎓 **Phitron, CSE Fundamentals Batch 4**
 - 🚀 **Programming Hero, Level 2 Batch 7**
-- 💻 **Operating System Development:** Built a 64-bit OS kernel using C and x86-64 Assembly.
 
 ---
 
