@@ -1,6 +1,6 @@
 <!-- Banner Image: Replace the src link with your actual banner image URL -->
 <div align="center">
-  <img src="https://via.placeholder.com/1200x400/1e1e2e/89b4fa?text=Welcome+to+My+GitHub+Profile" alt="Banner Image" width="100%" />
+  <img width="2170" height="725" alt="image" src="https://github.com/user-attachments/assets/05354a54-a7d0-4341-a457-1aacd07a6189" />
 </div>
 
 <h1 align="center">Hi there, I'm Md Abdul Hai Fahim 👋</h1>
