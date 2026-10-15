@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi there, I'm Md Abdul Hai Fahim 👋</h1>
 
-<h3 align="center">Full-Stack Developer 2025</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mahfahim&style=for-the-badge&color=blueviolet" alt="Profile Views" />
@@ -15,12 +15,12 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Full-Stack Software Developer** focused on building scalable, reliable, and high-performance web applications that solve real-world problems. I specialize in **Next.js, React, TypeScript, Node.js, Express.js, and PostgreSQL**. I'm passionate about problem-solving, writing maintainable code, and continuously improving my software engineering skills.
+I'm a **Full-Stack Developer** focused on building scalable, reliable, and high-performance web applications that solve real-world problems. I specialize in **Next.js, React, TypeScript, Node.js, Express.js, and PostgreSQL**. I'm passionate about real world problem-solving, writing maintainable code, and continuously improving my skills.
 
 - 💻 **Specialization:** Full-stack web application development.
 - 🏗️ **Backend Engineering:** RESTful APIs, authentication, and role-based access control (RBAC).
 - 🗄️ **Database Engineering:** Database design, PostgreSQL, Prisma ORM, and query optimization.
-- 🧠 **Problem Solving:** Data Structures and Algorithms (DSA) and competitive programming.
+- 🧠 **Problem Solving:** Data Structures and Algorithms (DSA).
 - 🎯 **Career Goal:** Building scalable software and solving meaningful real-world engineering challenges.
 
 ---
